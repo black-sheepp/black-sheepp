@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,19 +25,7 @@ I'm a web developer with a deep appreciation for clean and elegant code. My jour
 
 ## My Skills
 
-- **HTML**: Creating the structure and foundation of web pages is where it all begins. I'm well-versed in HTML and can transform ideas into functional web interfaces.
-
-- **CSS**: I have a keen eye for design and a strong grasp of CSS to bring those ideas to life. Styling and responsive design are my specialties.
-
-- **JavaScript**: The magic behind interactivity and user experience. I write clean and efficient JavaScript code to create dynamic web applications.
-
-- **React.js**: I love building responsive and dynamic user interfaces with React. It's my go-to library for crafting engaging web applications.
-
-- **Node.js**: Server-side JavaScript is a game-changer. I use Node.js to create efficient and scalable backend systems for my projects.
-
-- **Express.js**: Building web applications with Node.js is made even better with Express.js. I can create robust APIs and server routes using this framework.
-
-- **MongoDB**: Storing data is crucial, and MongoDB is my choice for NoSQL databases. I design data models and build scalable databases for various applications.
+HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB
 
 ## Projects
 
