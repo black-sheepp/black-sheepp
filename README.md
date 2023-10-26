@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 Hello there! 👋 I'm Shivam, a passionate developer with a love for building web applications. Welcome to my GitHub profile, where I share my journey and showcase my skills in web development.
 
-## About Me
-
-I'm a web developer with a deep appreciation for clean and elegant code. My journey in the world of programming started with a fascination for creating interactive and user-friendly websites. Over the years, I've honed my skills and gained experience in various web technologies. I'm always eager to learn and adapt to new challenges in the ever-evolving world of web development.
-
 ## My Skills
 
 HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB
