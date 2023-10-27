@@ -26,6 +26,7 @@ HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB | NextJs | Tailwi
 ## Projects
 
 Take a look at some of the projects I've worked on. These repositories are a testament to my skills and what I'm passionate about:
+- [TalkingDocs](https://github.com/black-sheepp/fullstack-talkingdocs): PDFChat application built using ReactJS Vite Framework, MongoDB for data storage, JWT for user authentication and authorization, and Node.js with Express.js for the backend. It also utilizes various libraries and tools for efficient development, including dotenv for environment variable management, Langchain and its vector store for language processing, Multer for file uploads, and Axios for making requests to the backend. The project is styled with Tailwind CSS and Shadcn Framework for a sleek user interface.
 
 - [ERS](https://github.com/black-sheepp/ERS): Developed an ERS web app with Node.js, Express.js, EJS, and MongoDB, enabling easy feedback submission among colleagues. Implemented secure authentication with passport.js, including "Sign In with Google" for streamlined access. User-friendly interface for efficient performance feedback, with a scalable MongoDB database for a responsive system as the user base grew.
 
