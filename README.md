@@ -21,7 +21,7 @@ Hello there! 👋 I'm Shivam, a passionate developer with a love for building we
 
 ## My Skills
 
-HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB | NextJs | Tailwind CSS
+HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB | NextJs | Tailwind CSS | Java | C++ 
 
 ## Projects
 
