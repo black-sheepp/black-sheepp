@@ -39,7 +39,8 @@ Take a look at some of the projects I've worked on. These repositories are a tes
 
 - [ToDo Web App](https://github.com/black-sheepp/todo-app-reactjs): Developed a user-friendly Todo list application using ReactJS, showcasing strong proficiency in building modular UI components. Implemented local storage functionality to ensure that the app retains its state even after a browser refresh, providing a seamless offline experience for users.
 
-- [Dishpedia - The MealDB App](https://github.com/black-sheepp/Dishpedia--The-MealDB-App): Developed a user-friendly application MealDB App using HTML CSS and JS. 
+- [Dishpedia - The MealDB App](https://github.com/black-sheepp/Dishpedia--The-MealDB-App):  MealDB app leverages a combination of HTML, CSS, and JavaScript to create a dynamic and single-page application with features such as real-time data fetching, user interactivity, favorites management, and responsive design.
+
 
 
 
