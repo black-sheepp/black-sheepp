@@ -21,7 +21,7 @@ Hello there! 👋 I'm Shivam, a passionate developer with a love for building we
 
 ## My Skills
 
-HTML | CSS | Javascript | ReactJs | NodeJs | Express | MongoDB | NextJs | Tailwind CSS | Java | C++ 
+ Java | C++ | HTML | CSS | Javascript | ReactJs | NextJs | NodeJs | Express | MongoDB | Tailwind CSS 
 
 ## Projects
 
@@ -40,6 +40,12 @@ Take a look at some of the projects I've worked on. These repositories are a tes
 - [ToDo Web App](https://github.com/black-sheepp/todo-app-reactjs): Developed a user-friendly Todo list application using ReactJS, showcasing strong proficiency in building modular UI components. Implemented local storage functionality to ensure that the app retains its state even after a browser refresh, providing a seamless offline experience for users.
 
 - [Dishpedia - The MealDB App](https://github.com/black-sheepp/Dishpedia--The-MealDB-App):  MealDB app leverages a combination of HTML, CSS, and JavaScript to create a dynamic and single-page application with features such as real-time data fetching, user interactivity, favorites management, and responsive design.
+
+- [Lichess Player Data](https://github.com/black-sheepp/lichess.org): The application is designed to efficiently retrieve, process, and display data from the Lichess.org API. The backend is built using Node.js and MongoDB, while the frontend is developed with React.
+
+- [EvoSurvey App](https://github.com/black-sheepp/evo-survey-fullstack): A survey form submission application using the MERN stack that allows users to submit required information. A survey form with fields such as name, gender, nationality, email, phone number, address, and message. Admin to have a login access to view the data from a list of previous survey form submissions.
+
+
 
 
 
