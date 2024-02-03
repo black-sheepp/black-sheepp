@@ -23,6 +23,9 @@ Hello there! 👋 I'm Shivam, a passionate developer with a love for building we
 
  Java | C++ | HTML | CSS | Javascript | ReactJs | NextJs | NodeJs | Express | MongoDB | Tailwind CSS 
 
+## GitHub Stats
+ ![black-sheepp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=tokyonight&hide_border=true)
+
 ## Projects
 
 Take a look at some of the projects I've worked on. These repositories are a testament to my skills and what I'm passionate about:
