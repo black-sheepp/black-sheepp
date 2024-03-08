@@ -43,6 +43,8 @@ Take a look at some of the projects I've worked on. These repositories are a tes
 
 - [HiveMind](https://github.com/black-sheepp/HIveMind-2.0): Built a secure Social Media platform using Node.js, EJS, MongoDB, Redis, and web-sockets for real-time communication. Implemented Google SignIn and PassportJs for secure login sessions and data protection.
 
+- [Ecommerce API](https://github.com/black-sheepp/triveous-backend): This project implements a RESTful API for an online shopping platform. It allows users to register, login, view products, add products to cart, place orders, and manage their orders.
+
 - [URL Shortener](https://github.com/black-sheepp/url_shortner): This project implements a URL shortening service using Node.js, Express, and MongoDB as the tech stack. JWT (JSON Web Token) authentication is implemented for user authentication and authorization.
 
 - [ToDo Web App](https://github.com/black-sheepp/todo-app-reactjs): Developed a user-friendly Todo list application using ReactJS, showcasing strong proficiency in building modular UI components. Implemented local storage functionality to ensure that the app retains its state even after a browser refresh, providing a seamless offline experience for users.
