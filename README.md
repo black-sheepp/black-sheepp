@@ -25,7 +25,9 @@ Hello there! 👋 I'm Shivam, a passionate developer with a love for building we
 
 
 ## GitHub Stats
+![black-sheepp's Stats](https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![black-sheepp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=dark&hide_border=false)
+![black-sheepp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Let's Connect
 
