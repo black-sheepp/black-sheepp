@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, This is Shivam
 
-Hello there! 👋 I'm Shivam, a passionate developer with a love for building web applications. Welcome to my GitHub profile, where I share my journey and showcase my skills in web development.
+A passionate developer with a love for building Website, Web App, UI/UX and Applications. Welcome to my GitHub profile, where I share my journey and showcase my skills in web development.
 
 ## Tech & Tools
 
