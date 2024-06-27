@@ -26,7 +26,7 @@ Hello there! 👋 I'm Shivam, a passionate developer with a love for building we
 
 ## GitHub Stats
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=false&layout=compact" width="600" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=false" width="600" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=false&count_private=true" width="600" height="200" />
