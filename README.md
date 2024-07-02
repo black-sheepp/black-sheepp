@@ -26,9 +26,9 @@ A passionate developer with a love for building Website, Web App, UI/UX and Appl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=black-sheepp&bg_color=0d1116&color=00ccff&line=00ff40&point=0008ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=false" style="width: 400px; height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" style="width: 400px; height: 200px; object-fit: contain;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=false&count_private=true" style="width: 400px; height: 200px; object-fit: contain;" />
+  <img src="![black-sheepp's Stats](https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true)" style="width: 400px; height: 200px; object-fit: contain;" />
 </div>
 
 
