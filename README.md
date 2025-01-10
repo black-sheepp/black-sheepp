@@ -22,9 +22,6 @@ A passionate developer with a love for building Website, Web App, UI/UX and Appl
 ## GitHub Stats
 
 <div>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" style="width: 450px; height: 200px; object-fit: contain;" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" style="width: 450px; height: 200px; object-fit: contain;" />
 </div>
 
@@ -36,6 +33,6 @@ A passionate developer with a love for building Website, Web App, UI/UX and Appl
 
 ## Let's Connect
 
-I'm always open to collaborations, learning from others, and sharing my knowledge with the community. Feel free to reach out to me if you have any questions, ideas, or just want to chat about web development. You can find me on [LinkedIn](https://www.linkedin.com/in/gshivam1/).
+I'm always open to collaborations, learning from others, and sharing my knowledge with the community. Feel free to reach out to me if you have any questions, ideas, or just want to chat about web development. 
 
 Thank you for visiting my GitHub profile, and I look forward to sharing more exciting projects and experiences with you in the future! 😊🚀
