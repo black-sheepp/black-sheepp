@@ -58,10 +58,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/black-sheepp">
     <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=social" height="30" alt="GitHub Followers" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shivamguptanitw@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/gshivam1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 </p>
