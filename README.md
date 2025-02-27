@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h2 align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FFD93D); -webkit-background-clip: text; color: transparent;">
-  🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps | LLM & AI Agents
+  🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps
 </h2>
 
 <p align="center">
