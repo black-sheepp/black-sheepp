@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FFD93D, #36BCF7); -webkit-background-clip: text; color: transparent;">
-  🚀 Passionate Developer | WebApp Enthusiast | AI-Powered WebApps
+  🚀 Passionate Developer | WebApp Enthusiast
 </h2>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---
 
 ## 🌱 What I'm Learning & Exploring  
-- 🤖 **AI & LLMs**: Building **AI-powered apps** with **Agents, RAG, and NLP**.  
+- 🤖 **AI & LLMs**: Building **AI-powered apps** with **Agents, RAG, and Langchain**.  
 - 🛠️ **AI Web Apps**: Integrating **AI-driven automation** into web applications.  
 - 🔍 **AI Search & Knowledge Systems**: Exploring **vector databases, embeddings, and AI-powered search**.  
 
