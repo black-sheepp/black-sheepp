@@ -13,44 +13,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Shivam</h1>
 
-# Hi 👋, I'm Shivam!
+<p align="center">
+  🚀 Passionate Developer | Web Enthusiast | UI/UX Lover
+</p>
 
-🚀 A passionate developer with a love for building Websites, Web Apps, and UI/UX-rich Applications.  
-Welcome to my GitHub profile, where I share my journey and showcase my skills in web development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Interactive+UI%2FUX;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" style="width: 450px; height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="width: 450px; height: 200px; object-fit: contain;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
+</p>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech & Tools  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,java,cpp,postman" />
+</p>
 
 ---
 
-## 💡 Let's Connect
+## 🌍 Let's Connect  
 
-I'm always open to collaborations, learning from others, and sharing knowledge with the community.  
-Feel free to reach out if you have any questions, ideas, or just want to chat about web development!  
+<p align="center">
+  <a href="https://github.com/black-sheepp">
+    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-✨ Thanks for visiting my GitHub profile! Stay tuned for more exciting projects and updates. 🚀😊  
+---
+
+## ⚡ Fun Fact
+
+![Profile Views](https://komarev.com/ghpvc/?username=black-sheepp&color=brightgreen&style=flat-square)  
+I love solving **real-world problems** with **clean and scalable code!** 🚀
+
+---
