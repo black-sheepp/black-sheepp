@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
-<p align="center">
+<h2 align="center" style="font-size: 26px; font-weight: bold;">
   🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps | LLM & AI Agents
-</p>
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+AI-Powered+WebApps;Exploring+LLMs+%26+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+AI-Powered+WebApps;Exploring+LLMs+%26+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" height="200" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" width="400" height="200" alt="Top Languages" />
 </p>
 
 ---
