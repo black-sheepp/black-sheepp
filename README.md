@@ -32,7 +32,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" height="200" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" height="200" alt="GitHub Stats" />
 </p>
 <p align="center">
@@ -41,15 +40,15 @@
 
 ## 🎭 Hobbies & Interests  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ### ♟️ Chess Enthusiast  
 🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**. Strategy, patience, and tactics define every move.  
 ### 📖 Reading & Writing  
 🖋️ Words have power – I love to **read, write, and explore** new ideas in **tech, AI, and philosophy**.  
-### 🌙 Moonchild & Sky Gazer  
-🔭 The **cosmos fascinates me** – whether it's the moon, the stars, or the mysteries of space, I love gazing at the universe.  
+### 🌙 Celestial Dreamer & Lunar Soul  
+🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.  
 ### 🚀 Creative Learner  
 💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.  
 
