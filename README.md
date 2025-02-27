@@ -22,12 +22,15 @@
 ---
 
 ## 🌍 Let's Connect  
+
+💬 **Let's collaborate, share ideas, and build something amazing!**  
+
 <p align="center">
   <a href="https://github.com/black-sheepp" target="_blank">
-    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" height="40" style="border-radius: 8px; margin: 5px;" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" style="border-radius: 8px; margin: 5px;" alt="GitHub" />
   </a>
   <a href="mailto:shivamguptanitw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" height="40" style="border-radius: 8px; margin: 5px;" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" style="border-radius: 8px; margin: 5px;" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gshivam1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="border-radius: 8px; margin: 5px;" alt="LinkedIn" />
