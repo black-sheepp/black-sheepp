@@ -18,7 +18,7 @@
 
 ## 🎭 Hobbies & Interests  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=28&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ### ♟️ Chess Enthusiast 🔥 **USFC 1500 Elo** – A strategic battle of **minds & moves**. Every game is a **story of patience, logic & creativity**.  
@@ -28,17 +28,20 @@
 
 ## 🌍 Let's Connect  
 <p align="center">
-  <a href="https://github.com/black-sheepp" style="margin-right: 10px;">
-    <img src="https://img.shields.io/github/followers/black-sheepp?label=GitHub&logo=github&style=for-the-badge&color=black" height="40" alt="GitHub Followers" />
+  <a href="https://github.com/black-sheepp">
+    <img src="https://img.shields.io/github/followers/black-sheepp?label=GitHub&logo=github&style=for-the-badge&color=black" height="32" alt="GitHub Followers" />
   </a>
-  <a href="mailto:shivamguptanitw@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+  <span style="margin: 0 8px;"></span>
+  <a href="mailto:shivamguptanitw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/gshivam1/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  <span style="margin: 0 8px;"></span>
+  <a href="https://www.linkedin.com/in/gshivam1/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
+  <span style="margin: 0 8px;"></span>
   <a href="https://lichess.org/@/shivam888500">
-    <img src="https://img.shields.io/badge/Lichess-100000?style=for-the-badge&logo=lichess&logoColor=white" height="40" alt="Lichess Profile" />
+    <img src="https://img.shields.io/badge/Lichess-100000?style=for-the-badge&logo=lichess&logoColor=white" height="32" alt="Lichess Profile" />
   </a>
 </p>
 
