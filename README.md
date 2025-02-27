@@ -24,16 +24,16 @@
 ## 🌍 Let's Connect  
 <p align="center">
   <a href="https://github.com/black-sheepp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" height="40" style="border-radius: 8px; margin: 5px;" alt="GitHub Followers" />
   </a>
   <a href="mailto:shivamguptanitw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" height="40" style="border-radius: 8px; margin: 5px;" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gshivam1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="border-radius: 8px; margin: 5px;" alt="LinkedIn" />
   </a>
   <a href="https://lichess.org/@/shivam888500" target="_blank">
-    <img src="https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white" height="40" alt="Lichess Profile" />
+    <img src="https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" height="40" style="border-radius: 8px; margin: 5px;" alt="Lichess Profile" />
   </a>
 </p>
 
