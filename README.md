@@ -81,20 +81,28 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎭 Hobbies & Interests  
+# 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Chess-%231572B6?style=for-the-badge&logo=chess-dot-com&logoColor=white" height="30" alt="Chess" />
-  <img src="https://img.shields.io/badge/-Reading-%23FF6B6B?style=for-the-badge&logo=openbook&logoColor=white" height="30" alt="Reading" />
-  <img src="https://img.shields.io/badge/-Writing-%23FFD93D?style=for-the-badge&logo=writedotas&logoColor=white" height="30" alt="Writing" />
-  <img src="https://img.shields.io/badge/-Sky%20Gazing-%2336BCF7?style=for-the-badge&logo=stars&logoColor=white" height="30" alt="Sky Gazing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;✈%EF%B8%8F+Traveler+%7C+Wanderlust+Explorer;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
-- ♟️ **Chess Enthusiast** – **USFC 1500 Elo**, always up for a tactical battle.  
-- 📖 **Avid Reader & Writer** – Exploring thoughts through words, storytelling & tech blogs.  
-- ✈️ **Wanderlust Explorer** – Finding inspiration in **new places, cultures, and hidden gems.**  
-- 🌙 **Moonchild & Sky Wonderer** – Lost in the **cosmic beauty of the night sky**, wondering **what's beyond.**  
-- 🛠️ **Creative Learner** – Diving deep into **tech, AI, and philosophy** while staying curious!  
+---
+
+### ♟️ Chess Enthusiast  
+🔥 **USFC 1500 Elo** – A strategic battle of **minds & moves**. Every game is a **story of patience, logic & creativity**.  
+
+### 📖 Reading & Writing  
+🖋️ **Words weave worlds** – Be it **tech, AI, philosophy, or personal reflections**, I love to **write, read, and explore perspectives**.  
+
+### ✈️ Wanderlust Explorer  
+🌎 Traveling is my **gateway to adventure & learning** – new places, cultures, and experiences **broaden my horizons**.  
+
+### 🌙 Moonchild & Sky Gazer  
+🔭 **Lost in the cosmic beauty** – the moon, the stars, the infinite **mysteries of the universe**. A wonderer at heart!  
+
+### 🚀 Creative Learner  
+💡 Constantly **diving into AI, LLMs, and tech** while embracing **philosophy, creativity, and deep learning**.  
 
 ---
 
