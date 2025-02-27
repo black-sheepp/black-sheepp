@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,6 +61,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gshivam1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
+  <a href="https://lichess.org/@/shivam888500">
+    <img src="https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white" height="30" alt="Lichess Profile" />
+  </a>
 </p>
 
 ---
@@ -102,16 +103,6 @@ Here are some ideas to get you started:
 
 ### 🚀 Creative Learner  
 💡 Constantly **diving into AI, LLMs, and tech** while embracing **philosophy, creativity, and deep learning**.  
-
----
-
-## ♟️ Lichess Stats  
-
-<p align="center">
-  <img src="https://lichess.org/api/user/shivam888500/current-game" alt="Lichess Stats" width="500" />
-</p>
-
-🔗 **[View my Lichess Profile](https://lichess.org/@/shivam888500)**  
 
 ---
 
