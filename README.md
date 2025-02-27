@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
+**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <h1 align="center" style="font-size: 82px; font-weight: bold; background: linear-gradient(90deg, #36BCF7, #60D394, #FFD93D); -webkit-background-clip: text; color: transparent;">
   Hi 👋, I'm Shivam
 </h1>
@@ -79,7 +83,7 @@ Here are some ideas to get you started:
 # 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;✈%EF%B8%8F+Traveler+%7C+Wanderlust+Explorer;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;✈%EF%B8%8F+Traveler+%7C+Wanderlust+Explorer;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ---
@@ -98,6 +102,16 @@ Here are some ideas to get you started:
 
 ### 🚀 Creative Learner  
 💡 Constantly **diving into AI, LLMs, and tech** while embracing **philosophy, creativity, and deep learning**.  
+
+---
+
+## ♟️ Lichess Stats  
+
+<p align="center">
+  <img src="https://lichess.org/api/user/shivam888500/current-game" alt="Lichess Stats" width="500" />
+</p>
+
+🔗 **[View my Lichess Profile](https://lichess.org/@/shivam888500)**  
 
 ---
 
