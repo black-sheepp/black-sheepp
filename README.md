@@ -1,18 +1,3 @@
-
-<!--
-**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -82,7 +67,7 @@ Here are some ideas to get you started:
 # 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;✈%EF%B8%8F+Traveler+%7C+Wanderlust+Explorer;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ---
@@ -92,9 +77,6 @@ Here are some ideas to get you started:
 
 ### 📖 Reading & Writing  
 🖋️ **Words weave worlds** – Be it **tech, AI, philosophy, or personal reflections**, I love to **write, read, and explore perspectives**.  
-
-### ✈️ Wanderlust Explorer  
-🌎 Traveling is my **gateway to adventure & learning** – new places, cultures, and experiences **broaden my horizons**.  
 
 ### 🌙 Moonchild & Sky Gazer  
 🔭 **Lost in the cosmic beauty** – the moon, the stars, the infinite **mysteries of the universe**. A wonderer at heart!  
