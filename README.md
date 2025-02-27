@@ -23,10 +23,7 @@ A passionate developer with a love for building Website, Web App, UI/UX and Appl
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" style="width: 450px; height: 200px; object-fit: contain;" />
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="width: 550px; height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="width: 450px; height: 200px; object-fit: contain;" />
 </div>
 
 
