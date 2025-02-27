@@ -81,6 +81,25 @@ Here are some ideas to get you started:
 
 ---
 
+## 🎭 Hobbies & Interests  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Chess-%231572B6?style=for-the-badge&logo=chess-dot-com&logoColor=white" height="30" alt="Chess" />
+  <img src="https://img.shields.io/badge/-Reading-%23FF6B6B?style=for-the-badge&logo=openbook&logoColor=white" height="30" alt="Reading" />
+  <img src="https://img.shields.io/badge/-Writing-%23FFD93D?style=for-the-badge&logo=writedotas&logoColor=white" height="30" alt="Writing" />
+  <img src="https://img.shields.io/badge/-Sky%20Gazing-%2336BCF7?style=for-the-badge&logo=stars&logoColor=white" height="30" alt="Sky Gazing" />
+</p>
+
+- ♟️ **Chess Enthusiast** – **USFC 1500 Elo**, always up for a tactical battle.  
+- 📖 **Avid Reader & Writer** – Exploring thoughts through words, storytelling & tech blogs.  
+- ✈️ **Wanderlust Explorer** – Finding inspiration in **new places, cultures, and hidden gems.**  
+- 🌙 **Moonchild & Sky Wonderer** – Lost in the **cosmic beauty of the night sky**, wondering **what's beyond.**  
+- 🛠️ **Creative Learner** – Diving deep into **tech, AI, and philosophy** while staying curious!  
+
+---
+
+
+
 ## ⚡ Fun Fact  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=black-sheepp&color=brightgreen&style=flat-square)  
