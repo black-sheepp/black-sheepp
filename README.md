@@ -44,11 +44,11 @@
 </p>
 
 ### ♟️ Chess Enthusiast  
-  <a href="https://lichess.org/@/shivam888500">
-    <img src="https://img.shields.io/badge/Lichess-100000?style=for-the-badge&logo=lichess&logoColor=white" height="32" alt="Lichess Profile" />
-  </a>
   </br>
 🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**. Strategy, patience, and tactics define every move.  
+ <a href="https://lichess.org/@/shivam888500">
+    <img src="https://img.shields.io/badge/Lichess-100000?style=for-the-badge&logo=lichess&logoColor=white" height="32" alt="Lichess Profile" />
+  </a>
   </br>
 ### 📖 Reading & Writing  
   </br>
