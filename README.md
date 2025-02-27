@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -68,6 +67,22 @@ Here are some ideas to get you started:
 
 ---
 
+## ♟️ Lichess Stats  
+
+🔥 **Chess Ratings** (Updated Dynamically)  
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://lichess.org/api/user/shivam888500&label=Blitz&style=for-the-badge&color=blue" alt="Blitz Rating" />
+  <img src="https://img.shields.io/endpoint?url=https://lichess.org/api/user/shivam888500&label=Rapid&style=for-the-badge&color=green" alt="Rapid Rating" />
+  <img src="https://img.shields.io/endpoint?url=https://lichess.org/api/user/shivam888500&label=Tactics&style=for-the-badge&color=orange" alt="Tactics Rating" />
+</p>
+
+🎯 **Recent Games & Activity**  
+<p align="center">
+  <iframe src="https://lichess.org/@/shivam888500/activity" width="600" height="300" frameborder="0"></iframe>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -86,23 +101,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;✈%EF%B8%8F+Traveler+%7C+Wanderlust+Explorer;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
-
----
-
-### ♟️ Chess Enthusiast  
-🔥 **USFC 1500 Elo** – A strategic battle of **minds & moves**. Every game is a **story of patience, logic & creativity**.  
-
-### 📖 Reading & Writing  
-🖋️ **Words weave worlds** – Be it **tech, AI, philosophy, or personal reflections**, I love to **write, read, and explore perspectives**.  
-
-### ✈️ Wanderlust Explorer  
-🌎 Traveling is my **gateway to adventure & learning** – new places, cultures, and experiences **broaden my horizons**.  
-
-### 🌙 Moonchild & Sky Gazer  
-🔭 **Lost in the cosmic beauty** – the moon, the stars, the infinite **mysteries of the universe**. A wonderer at heart!  
-
-### 🚀 Creative Learner  
-💡 Constantly **diving into AI, LLMs, and tech** while embracing **philosophy, creativity, and deep learning**.  
 
 ---
 
