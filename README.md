@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -45,14 +35,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,postman" />
-  <img src="https://img.shields.io/badge/-LangChain-%231572B6?style=for-the-badge&logo=python&logoColor=white" height="30" alt="LangChain" />
 </p>
 
 ---
 
 ## 🌱 What I'm Learning & Exploring  
 
-- 🤖 **AI & LLMs**: Working with **AI Agents, RAG (Retrieval-Augmented Generation)**, and **LangChain** to build **intelligent AI-powered applications**.  
+- 🤖 **AI & LLMs**: Working with **AI Agents, RAG (Retrieval-Augmented Generation)** to build **intelligent AI-powered applications**.  
 - 🛠️ **AI Web Apps**: Implementing **AI-driven web applications** that integrate **natural language processing (NLP), chatbots, and automation**.  
 - 🔍 **AI Search & Knowledge Systems**: Exploring **vector databases, embeddings, and AI-powered search** to enhance **RAG-based applications**.  
 
