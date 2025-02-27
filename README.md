@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+AI-Powered+WebApps;Exploring+LLMs+%26+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7CNode.js+%7C+JavaScript;Building+AI-Powered+WebApps;Exploring+LLMs+%26+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ## 📊 GitHub Stats  
