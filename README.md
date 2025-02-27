@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
 <p align="center">
-  🚀 Passionate Developer | Web Enthusiast | UI/UX Lover
+  🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps | LLM & AI Agents
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Interactive+UI%2FUX;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+JavaScript;Building+AI-Powered+WebApps;Exploring+LLMs+%26+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
