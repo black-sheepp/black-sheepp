@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h1 align="center" style="font-size: 42px; font-weight: bold; background: linear-gradient(90deg, #36BCF7, #60D394); -webkit-background-clip: text; color: transparent;">
+  Hi 👋, I'm Shivam
+</h1>
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #36BCF7, #60D394); -webkit-background-clip: text; color: transparent; font-size: 26px; font-weight: bold;">
-    🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps | LLM & AI Agents
-  </span>
+<h2 align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FFD93D); -webkit-background-clip: text; color: transparent;">
+  🚀 Passionate Developer | Web Enthusiast | AI-Powered WebApps | LLM & AI Agents
 </h2>
 
 <p align="center">
