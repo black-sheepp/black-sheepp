@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="https://lichess.org/@/shivam888500">
-    <img src="https://img.shields.io/badge/Lichess-Profile-%23222222.svg?style=for-the-badge&logo=lichess&logoColor=white" height="28" alt="Lichess Profile" />
+    <img src="https://img.shields.io/badge/Lichess-Profile-%23222222.svg?style=for-the-badge&logo=lichess&logoColor=white" height="28" alt="Lichess" />
   </a>
 </p>
 
