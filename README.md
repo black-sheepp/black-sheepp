@@ -49,12 +49,19 @@
   </a>
   </br>
 🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**. Strategy, patience, and tactics define every move.  
+  </br>
 ### 📖 Reading & Writing  
+  </br>
 🖋️ Words have power – I love to **read, write, and explore** new ideas in **tech, AI, and philosophy**.  
-### 🌙 Celestial Dreamer & Lunar Soul  
-🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.  
-### 🚀 Creative Learner  
-💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.  
+  </br>
+### 🌙 Celestial Dreamer & Lunar Soul    </br>
+
+🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.    </br>
+
+### 🚀 Creative Learner    </br>
+
+💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.    </br>
+
 
 ## ⚡ Fun Fact  
 <h3 align="center" style="font-size: 26px; font-weight: bold; color: #FFD93D;">Profile Views</h3>
