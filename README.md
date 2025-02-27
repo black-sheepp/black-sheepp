@@ -1,7 +1,7 @@
 <!-- **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center" style="font-size: 82px; font-weight: bold; background: linear-gradient(90deg, #36BCF7, #60D394, #FFD93D); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Shivam</h1>
-<h2 align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FFD93D, #36BCF7); -webkit-background-clip: text; color: transparent;">🚀 Passionate Developer | WebApp Enthusiast | AI-Powered WebApps | Exploring AI, Agents & LLM</h2>
+<h2 align="center" style="font-size: 30px; font-weight: bold; background: linear-gradient(90deg, #FF6B6B, #FFD93D, #36BCF7); -webkit-background-clip: text; color: transparent;">🚀 Passionate Developer | WebApp Enthusiast | AI-Powered WebApps </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+JavaScript+%7C+Node.js;Building+AI-Powered+WebApps;Exploring+RAG+%7C+LLMs+%7C+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
