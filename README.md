@@ -19,21 +19,26 @@
 - 🤖 **AI & LLMs**: AI Agents, RAG, NLP, Chatbots.  
 - 🔍 **AI Search**: Vector databases & embeddings.  
 
+---
+
 ## 🌍 Let's Connect  
 <p align="center">
-  <a href="https://github.com/black-sheepp">
-    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=social" height="30" alt="GitHub Followers" />
+  <a href="https://github.com/black-sheepp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
   </a>
   <a href="mailto:shivamguptanitw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/gshivam1/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gshivam1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://lichess.org/@/shivam888500">
-    <img src="https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white" height="30" alt="Lichess Profile" />
+  <a href="https://lichess.org/@/shivam888500" target="_blank">
+    <img src="https://img.shields.io/badge/Lichess-%23000000.svg?style=for-the-badge&logo=lichess&logoColor=white" height="40" alt="Lichess Profile" />
   </a>
 </p>
+
+---
+
 
 ## 📊 GitHub Stats  
 <p align="center">
