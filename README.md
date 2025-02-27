@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <!--
 **black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!--
+**black-sheepp/black-sheepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h1 align="center" style="font-size: 82px; font-weight: bold; background: linear-gradient(90deg, #36BCF7, #60D394, #FFD93D); -webkit-background-clip: text; color: transparent;">
   Hi 👋, I'm Shivam
@@ -36,10 +39,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,postman,python,django" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-%231572B6?style=for-the-badge&logo=python&logoColor=white" height="30" alt="LangChain" />
 </p>
 
 ---
