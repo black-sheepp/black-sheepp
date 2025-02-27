@@ -28,14 +28,11 @@
   <a href="https://www.linkedin.com/in/gshivam1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://lichess.org/@/shivam888500">
-    <img src="https://img.shields.io/badge/Lichess-Profile-%23222222.svg?style=for-the-badge&logo=lichess&logoColor=white" height="28" alt="Lichess Profile" />
-  </a>
 </p>
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" height="200" alt="GitHub Streak" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" height="200" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" height="200" alt="GitHub Stats" />
 </p>
 <p align="center">
