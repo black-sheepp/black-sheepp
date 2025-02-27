@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
 <p align="center">
@@ -25,15 +26,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-sheepp&theme=blue-green&hide_border=true" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" width="400" alt="Top Languages" />
 </p>
 
 ---
@@ -50,21 +51,21 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/black-sheepp">
-    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/black-sheepp?label=Followers&style=social" height="30" alt="GitHub Followers" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=black-sheepp&color=brightgreen&style=flat-square)  
-I love solving **real-world problems** with **clean and scalable code!** 🚀
+I love solving **real-world problems** with **clean and scalable code!** 🚀  
 
 ---
