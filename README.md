@@ -43,25 +43,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
+---
+
 ### ♟️ Chess Enthusiast  
-  </br>
-🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**. Strategy, patience, and tactics define every move.  
- <a href="https://lichess.org/@/shivam888500">
+🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**.  
+🧠 Strategy, patience, and tactics define every move.  
+
+<p align="center">
+  <a href="https://lichess.org/@/shivam888500">
     <img src="https://img.shields.io/badge/Lichess-100000?style=for-the-badge&logo=lichess&logoColor=white" height="32" alt="Lichess Profile" />
   </a>
-  </br>
+</p>
+
+---
+
 ### 📖 Reading & Writing  
-  </br>
 🖋️ Words have power – I love to **read, write, and explore** new ideas in **tech, AI, and philosophy**.  
-  </br>
-### 🌙 Celestial Dreamer & Lunar Soul    </br>
+📚 Whether it's books, articles, or code, every word weaves a new world.  
 
-🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.    </br>
+---
 
-### 🚀 Creative Learner    </br>
+### 🌙 Celestial Dreamer & Lunar Soul  
+🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.  
+✨ There's something magical about looking at the universe and wondering about our place in it.  
 
-💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.    </br>
+---
 
+### 🚀 Creative Learner  
+💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.  
+🔍 Curiosity drives me to **learn, build, and innovate** in the ever-evolving world of tech.  
 
 ## ⚡ Fun Fact  
 <h3 align="center" style="font-size: 26px; font-weight: bold; color: #FFD93D;">Profile Views</h3>
