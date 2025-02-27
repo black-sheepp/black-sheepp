@@ -15,10 +15,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,postman" />
 </p>
 
-## 🌱 What I'm Learning & Exploring  
-- 🤖 **AI & LLMs**: Working with **AI Agents, RAG (Retrieval-Augmented Generation)** to build **intelligent AI-powered applications**.  
-- 🛠️ **AI Web Apps**: Implementing **AI-driven web applications** that integrate **NLP, chatbots, and automation**.  
-- 🔍 **AI Search & Knowledge Systems**: Exploring **vector databases, embeddings, and AI-powered search** to enhance **RAG-based applications**.  
+## 🌱 Learning & Exploring  
+- 🤖 **AI & LLMs**: AI Agents, RAG, NLP, Chatbots.  
+- 🔍 **AI Search**: Vector databases & embeddings.  
 
 ## 🌍 Let's Connect  
 <p align="center">
@@ -48,21 +47,14 @@
 
 ## 🎭 Hobbies & Interests  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Sky+Gazer+%7C+Moonchild+%7C+Stargazer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
-### ♟️ Chess Enthusiast  
-🔥 **USFC 1500 Elo** – A strategic battle of **minds & moves**. Every game is a **story of patience, logic & creativity**.  
-
-### 📖 Reading & Writing  
-🖋️ **Words weave worlds** – Be it **tech, AI, philosophy, or personal reflections**, I love to **write, read, and explore perspectives**.  
-
-### 🌙 Moonchild & Sky Gazer  
-🔭 **Lost in the cosmic beauty** – the moon, the stars, the infinite **mysteries of the universe**. A wonderer at heart!  
-
-### 🚀 Creative Learner  
-💡 Constantly **diving into AI, LLMs, and tech** while embracing **philosophy, creativity, and deep learning**.  
-
 ## ⚡ Fun Fact  
-![Profile Views](https://komarev.com/ghpvc/?username=black-sheepp&color=brightgreen&style=flat-square)  
-I love solving **real-world problems** with **clean and scalable code!** 🚀  
+<h3 align="center" style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #FF5733, #FFD700, #36BCF7); -webkit-background-clip: text; color: transparent;">
+  🚀 I love solving real-world problems with clean & scalable code!
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=black-sheepp&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
