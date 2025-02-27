@@ -58,7 +58,7 @@
 ## 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=ffff3f&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ---
