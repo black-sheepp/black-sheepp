@@ -58,14 +58,14 @@
 ## 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=fff75e&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USFC+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=fff75e&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USCF+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ---
 
 ### ♟️ Chess Enthusiast  
-🔥 **USFC 1500 Elo** – Chess is not just a game; it's a **battle of minds**.  
-🧠 Strategy, patience, and tactics define every move.  
+🔥 **USCF 1500 Elo** – Chess is not just a game; it's a **battle of minds**.  
+🧠 Strategy, patience, and tactics define every move. 
 
 <p align="center">
   <a href="https://lichess.org/@/shivam888500">
