@@ -10,22 +10,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+JavaScript+%7C+Node.js;Building+AI-Powered+WebApps;Exploring+RAG+%7C+LLMs+%7C+AI+Agents;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
 ## 🛠️ Tech & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,postman" />
 </p>
 
----
-
 ## 🌱 What I'm Learning & Exploring  
 - 🤖 **AI & LLMs**: Building **AI-powered apps** with **Agents, RAG, and Langchain**.  
 - 🛠️ **AI Web Apps**: Integrating **AI-driven automation** into web applications.  
 - 🔍 **AI Search & Knowledge Systems**: Exploring **vector databases, embeddings, and AI-powered search**.  
 
----
 
 ## 🌍 Let's Connect  
 
@@ -41,7 +36,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -53,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" width="400" height="200" alt="Top Languages" />
 </p>
 
----
+
 
 ## 🎭 Hobbies & Interests  
 
@@ -61,7 +56,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=fff75e&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USCF+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
----
+
 
 ### ♟️ Chess Enthusiast  
 🔥 **USCF 1500 Elo** – Chess is not just a game; it's a **battle of minds**.  
@@ -73,7 +68,7 @@
   </a>
 </p>
 
----
+
 
 ### 📖 Reading & Writing  
 🖋️ Words have power – I love to **read, write, and explore** new ideas in **tech, AI, and philosophy**.  
