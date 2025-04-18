@@ -34,6 +34,9 @@
   <a href="https://www.linkedin.com/in/gshivam1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
+   <a href="https://blacksheepnotwhite.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="28" alt="Portfolio Website" />
+  </a>
 </p>
 
 
