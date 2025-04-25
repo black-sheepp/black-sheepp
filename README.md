@@ -43,9 +43,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&count_private=true" width="400" height="200" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-sheepp&theme=blue-green&show_icons=true&hide_border=true&layout=compact" width="400" height="200" alt="Top Languages" />
