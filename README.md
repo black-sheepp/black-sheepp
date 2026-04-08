@@ -16,11 +16,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,vite,tailwind,sass,postman" />
 </p>
 
-## 🌱 What I'm Learning & Exploring  
-- 🤖 **AI & LLMs**: Building **AI-powered apps** with **Agents, RAG, and Langchain**.  
-- 🛠️ **AI Web Apps**: Integrating **AI-driven automation** into web applications.  
-- 🔍 **AI Search & Knowledge Systems**: Exploring **vector databases, embeddings, and AI-powered search**.  
-
 
 ## 🌍 Let's Connect  
 
@@ -69,7 +64,6 @@
 
 ---
 
-## ⚡ Fun Fact  
 
 <h3 align="center" style="font-size: 26px; font-weight: bold; color: #FFD93D;">Profile Views</h3>
 
