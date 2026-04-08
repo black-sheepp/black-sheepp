@@ -53,7 +53,7 @@
 ## 🎭 Hobbies & Interests  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=fff75e&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USCF+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🌌+Celestial+Dreamer+%7C+Lunar+Soul+%7C+Cosmic+Explorer;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=30&pause=1000&color=fff75e&center=true&vCenter=true&width=900&lines=%E2%99%9F+Chess+%7C+Tactical+Mind+%E2%80%93+USCF+1500+Elo;📖+Reading+%26+Writing+%7C+Words+Weave+Worlds;🚀+Creative+Learner+%7C+Tech%2C+AI%2C+Philosophy+Seeker" alt="Hobbies Typing SVG" />
 </p>
 
 ---
@@ -73,22 +73,9 @@
 ---
 
 
-
 ### 📖 Reading & Writing  
 🖋️ Words have power – I love to **read, write, and explore** new ideas in **tech, AI, and philosophy**.  
 📚 Whether it's books, articles, or code, every word weaves a new world.  
-
----
-
-### 🌙 Celestial Dreamer & Lunar Soul  
-🔭 The **cosmos fascinates me** – I find peace in **moonlit nights**, endless **galaxies**, and **starry skies**.  
-✨ There's something magical about looking at the universe and wondering about our place in it.  
-
----
-
-### 🚀 Creative Learner  
-💡 Always **exploring AI, LLMs, and technology** while diving into **philosophy and creativity**.  
-🔍 Curiosity drives me to **learn, build, and innovate** in the ever-evolving world of tech.  
 
 ---
 
